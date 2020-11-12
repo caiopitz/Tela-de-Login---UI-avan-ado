@@ -1,2 +1,4 @@
-# Tela-de-Login---UI-avan-ado
-Tela de login e senha para treinar .... 
+# Advanced-Login-UI
+Neste projeto vamos aprender como criar login avançado com html e css com owl-carousel.
+
+Basta abrir o arquivo Index.html no navegador.
